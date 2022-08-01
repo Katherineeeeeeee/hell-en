@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "hell-en",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://oLORDer.github.io/team",
+  "homepage": "https://Katherineeeeeeee.github.io/hell-en",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team/"
+    "build": "parcel build src/*.html --public-url /hell-en/"
   },
   "repository": {
     "type": "git",
