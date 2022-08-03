@@ -1,6 +1,7 @@
 **Hell-en
-Development team:
-------
+
+**Development team:
+
 [Andrii Klochko](https://github.com/oLORDer) (Team-Lead)
 
 
