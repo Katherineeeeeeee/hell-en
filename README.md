@@ -1,5 +1,28 @@
 # Hell-en
 
+[Task list](https://docs.google.com/document/d/1vkc0exHGKOHhv6TUe5bcE2eqJ5-seUrDjefME9gjgec/edit):
+
+Development of a one-page site for the company HellEN.
+
+- The layout is adaptive, breakpoints 480px, 768px, 1366px. For the mobile version of the site, the layout is responsive. The site must be viewed correctly in all possible browser window sizes and devices, starting with a width of 320px, in both portrait and landscape orientations.
+- Layout is valid (https://validator.w3.org/, https://validator.w3.org/unicorn/)
+- Ensure compliance with HTML5 semantics.
+- To ensure the optimization of the sizes of vector and raster graphics
+- Provide support for displaying pictures for retina screens
+- Optimize image loading.
+- Add page favicon display.
+---------------
+Technologies used to implement the project:
+
+- vs code
+- git
+- npm
+- parcel
+- HTML 5
+- SASS
+- CSS grid
+- JS
+
 
 # Development team:
 
