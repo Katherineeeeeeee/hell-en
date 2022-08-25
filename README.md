@@ -7,7 +7,7 @@ Bootcamp 23 Online by GoIt
 
 [Figma](https://www.figma.com/file/FNysc9PLjxJA9IeWBXlEIU/Hellish-English?node-id=0%3A1)
 
-![Screenshot](./assets/screenshot.png)
+
 
 [Task List](https://docs.google.com/document/d/1vkc0exHGKOHhv6TUe5bcE2eqJ5-seUrDjefME9gjgec/edit):
 
